@@ -54,7 +54,10 @@ mvn clean javafx:run
 
 Note that you can configure your IDE to run
 two maven commands when the "start" button
-is pressed.
+is pressed. For instance, in IntelliJ IDEA:
+
+![mvn clean javafx:run in IntelliJ](./mvn-clean-javafx.gif)
+
 
 ## Adding more frameworks or libraries
 You can add more frameworks or libraries
