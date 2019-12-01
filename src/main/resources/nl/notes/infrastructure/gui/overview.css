@@ -1,0 +1,16 @@
+/**
+ * CSS in JavaFX is OK,
+ * but lacks some modern CSS selectors.
+ *
+ * Note that you have to load CSS as stylesheets
+ * either in the FXML or in the relevant object.
+ * When doing it in objects, first get the collection
+ * of stylesheets and then you can add them.
+ */
+.navigation {
+    -fx-padding: 12px;
+}
+
+.actions {
+    -fx-padding: 12px;
+}
